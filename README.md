@@ -1,4 +1,4 @@
-### Hi there. I am Leclecr.
+### Hi there. I am Leclerc.
 
 - 🔭 I’m currently working on Go backend.
 - 🌱 I’m currently learning Rust,Microservices and so on.
